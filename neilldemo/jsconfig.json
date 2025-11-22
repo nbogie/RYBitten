@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "checkJs": false,
+        "types": ["./global.d.ts", "../dist/entryForUMD.d.ts"]
+    },
+    "include": ["./**/*.js"]
+}
